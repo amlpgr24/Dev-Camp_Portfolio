@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'detils/contact'
   get 'pages/home'
   get 'pages/about'
   get 'pages/contact'

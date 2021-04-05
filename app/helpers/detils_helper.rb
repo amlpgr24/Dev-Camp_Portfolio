@@ -1,0 +1,2 @@
+module DetilsHelper
+end
