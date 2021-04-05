@@ -1,7 +1,8 @@
-### Welcome to my first ruby app
+# Welcome to my first ruby app
 
--Hello
+### Hello
 - DevcampPortfolio
+> DevCamportfolio
 
 ```
 rails s
